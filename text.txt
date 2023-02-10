@@ -1,0 +1,18 @@
+working directory -> stagging area -> local repository -> remote repository (=um etwas ins repository zu speichern)
+wenn jemand mitarbeiten will, muss er es anders rum machen
+
+test-project -> 
+"git add _Filename_" um es in die stagging area -> 
+"git commit _Filename_" um in die local repository ->
+"git push _Filename_" um in die remote repository zu speichern
+
+Commands
+=========
+git status
+git init                //Um Git zu erstellen
+git add file1.txt       //Um Datei dazuzufügen
+git reset file1.txt     //Um Datei 
+git add
+git reset
+git diff                //Um Änderungen des Git anzuzeigen
+git restore text.txt    //Um Datei auf letzen Status zurückzusetzen 
