@@ -24,4 +24,6 @@ git commit -m "Name und Alter added"
 git add .
 git commit -m "added gitignore file"        //Um die gitignore-File zum Git hinzuzufügen, darin stehen die nicht zu
                                             //pushenden Dateien aufzulisten
-git push                    
+git push              
+
+README.md           // Darin werden infos gut zusammengeschrieben (Dokumentation)
