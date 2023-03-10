@@ -14,5 +14,8 @@ git add file1.txt       //Um Datei dazuzufügen
 git reset file1.txt     //Um Datei 
 git add
 git reset
-git diff                //Um Änderungen des Git anzuzeigen
+git diff                //Um Änderungen des Git anzuzeigen == CHANGE CONTROL
 git restore text.txt    //Um Datei auf letzen Status zurückzusetzen 
+
+VERSION CONTROL
+git commit -m "Name und Alter added"
