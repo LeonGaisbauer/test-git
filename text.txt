@@ -19,3 +19,9 @@ git restore text.txt    //Um Datei auf letzen Status zurückzusetzen
 
 VERSION CONTROL
 git commit -m "Name und Alter added"
+
+.gitignore      //darin befinden sich alle Dateien, die raufgeladen werden.
+git add .
+git commit -m "added gitignore file"        //Um die gitignore-File zum Git hinzuzufügen, darin stehen die nicht zu
+                                            //pushenden Dateien aufzulisten
+git push                    
