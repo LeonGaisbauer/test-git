@@ -27,3 +27,9 @@ git commit -m "added gitignore file"        //Um die gitignore-File zum Git hinz
 git push              
 
 README.md           // Darin werden infos gut zusammengeschrieben (Dokumentation)
+
+
+git branch feature2
+git checkout feature2
+git add .
+git commit -m "initial commit from branch"
